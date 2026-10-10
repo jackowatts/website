@@ -1,0 +1,12 @@
+{
+  "short_name": "Marco Giacovazzo",
+  "name": "Marco Giacovazzo — Physics",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "./",
+  "background_color": "#171d22",
+  "theme_color": "#171d22"
+}
