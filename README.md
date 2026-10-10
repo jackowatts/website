@@ -1,5 +1,7 @@
 # Marco Giacovazzo — sito personale
 
+> Visual webiste design and README.md file template developed with AI assistance (ChatGPT 6-Luna).
+
 Sito statico personale per presentare il percorso di studi in Fisica alla Sapienza Università di Roma e raccogliere appunti, materiali e progetti. È realizzato con HTML, CSS e JavaScript e pubblicato tramite GitHub Pages.
 
 ## Pagine e funzionalità
